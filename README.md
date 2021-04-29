@@ -6,7 +6,7 @@ Currently learning Unity Engine & Unreal Engine in my free time between college 
 
 # Languages 
 Used often: C#, Lua, Python, JavaScript, Java, HTML, CSS <br /> 
-Have used: Objective-C, Swift, Kotlin, C, PHP <br />
+Have used: Objective-C, Swift, Kotlin, C, PHP, JQuery <br />
 Learning: C++ <br />
 
 # Software/Frameworks I've used
@@ -15,10 +15,14 @@ Angular <br />
 Flask <br />
 SQL/MySQL/NoSQL <br />
 NodeJS <br />
+ExpressJS <br />
 Unity <br />
 Unreal <br />
 Love2D <br />
 Roblox <br />
+WordPress <br />
+.Net <br />
+WPF & WinForms <br />
 Discord libraries for various bots. <br />
 
 # Contact
