@@ -24,6 +24,8 @@ WordPress <br />
 .Net <br />
 WPF & WinForms <br />
 Discord libraries for various bots. <br />
+Blender <br />
+Substance Painter (Dabbled) <br />
 
 # Contact
 You can contact me at coreyfults@gmail.com. <br />
