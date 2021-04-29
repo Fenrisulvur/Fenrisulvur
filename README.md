@@ -1,5 +1,5 @@
 Hi! I'm Corey. <br />
-I'm a programmer and dabbler of 3D modeling. <br />
+I'm a programmer, gamer, and dabbler of 3D modeling. <br />
 I'm interested in game development and making cool things. <br />
 Currently learning Unity Engine & Unreal Engine in my free time between college classes. <br />
 
