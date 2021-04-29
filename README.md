@@ -1,24 +1,24 @@
-Hi! I'm Corey.__
-I'm a programmer and dabbler of 3D modeling.__
-I'm interested in game development and making cool things.__
-Currently learning Unity Engine & Unreal Engine in my free time between college classes.__
+Hi! I'm Corey. <br />
+I'm a programmer and dabbler of 3D modeling. <br />
+I'm interested in game development and making cool things. <br />
+Currently learning Unity Engine & Unreal Engine in my free time between college classes. <br />
 
 # Languages 
-Used often: C#, Lua, Python, JavaScript, Java, HTML, CSS__ 
-Have used: Objective-C, Swift, Kotlin, C, PHP__
-Learning: C++__
+Used often: C#, Lua, Python, JavaScript, Java, HTML, CSS <br /> 
+Have used: Objective-C, Swift, Kotlin, C, PHP <br />
+Learning: C++ <br />
 
 # Software/Frameworks I've used
-React__
-Angular__
-Flask__
-SQL/MySQL/NoSQL__
-NodeJS__
-Unity__
-Unreal__
+React <br />
+Angular <br />
+Flask <br />
+SQL/MySQL/NoSQL <br />
+NodeJS <br />
+Unity <br />
+Unreal <br />
 
 # Contact
-You can contact me at coreyfults@gmail.com.__
+You can contact me at coreyfults@gmail.com. <br />
 
 <!---
 Fenrisulvur/Fenrisulvur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
