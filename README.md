@@ -1,6 +1,6 @@
 Hi! I'm Corey. <br />
 I'm a programmer, gamer, and dabbler of 3D modeling. <br />
-Currently attending South Hills School of Business & Technology as a 2nd year Software Developer.
+Currently attending South Hills School of Business & Technology as a 2nd year Software Developer. <br />
 I'm interested in game development and making cool things. <br />
 Currently learning Unity Engine & Unreal Engine in my free time between college classes. <br />
 
