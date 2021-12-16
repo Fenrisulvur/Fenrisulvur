@@ -1,24 +1,24 @@
 Hi! I'm Corey. <br />
 I'm a programmer, gamer, and dabbler of 3D modeling. <br />
-Currently attending South Hills School of Business & Technology as a 2nd year Software Developer. <br />
+Graduated from South Hills School of Business & Technology as a Software Developer. <br />
 I'm interested in game development and making cool things. <br />
-Currently learning Unity Engine & Unreal Engine in my free time between college classes. <br />
+Currently working for Voldex as a Roblox Game Developer. <br />
 
 # Languages 
-Used often: C#, Lua, Python, JavaScript, Java, HTML, CSS <br /> 
-Have used: Objective-C, Swift, Kotlin, C, PHP, JQuery <br />
+Used often: C#, Lua, Python, JavaScript <br /> 
+Have used: Dart, Objective-C, Swift, Kotlin, C, PHP, JQuery, Java, HTML, CSS <br />
 Learning: C++ <br />
 
 # Software/Frameworks I've used
+Flutter <br />
 React <br />
 Angular <br />
 Flask <br />
 SQL/MySQL/NoSQL <br />
 NodeJS <br />
 ExpressJS <br />
-Unity <br />
-Unreal <br />
-Love2D <br />
+Unity Engine <br />
+Unreal Engine <br />
 Roblox <br />
 WordPress <br />
 .Net <br />
