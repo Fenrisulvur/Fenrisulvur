@@ -1,5 +1,5 @@
-[![Fenrisulvur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenrisulvur)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenrisulvur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Fenrisulvur's GitHub stats](https://github-readme-stats-1-ckdb8rxjr-fenrisulvur.vercel.app/api?username=Fenrisulvur)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-1-ckdb8rxjr-fenrisulvur.vercel.app/api/top-langs/?username=Fenrisulvur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 Hi! I'm Corey. <br />
 I'm a programmer, gamer, and dabbler of 3D modeling. <br />
