@@ -1,6 +1,6 @@
-![Fenrisulvur's GitHub stats](https://github-readme-stats-1-ckdb8rxjr-fenrisulvur.vercel.app/api?username=Fenrisulvur&count_private=true&show_icons=true&include_all_commit=true&cache_seconds=1800)
+![Fenrisulvur's GitHub stats](https://github-readme-stats-1-ckdb8rxjr-fenrisulvur.vercel.app/api?username=Fenrisulvur&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800&theme=dracula&custom_title=My%20Stats)
 
-![Top Langs](https://github-readme-stats-1-ckdb8rxjr-fenrisulvur.vercel.app/api/top-langs/?username=Fenrisulvur&layout=compact)
+![Top Langs](https://github-readme-stats-1-ckdb8rxjr-fenrisulvur.vercel.app/api/top-langs/?username=Fenrisulvur&layout=compact&theme=dracula)
 <br />
 Hi! I'm Corey. <br />
 I'm a programmer, gamer, and dabbler of 3D modeling. <br />
