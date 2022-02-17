@@ -48,7 +48,6 @@ Currently working for Voldex as a Roblox Game Developer. <br />
 
 
 # Contact
-You can contact me at . <br />
 <!-- Actual text -->
 [![GMAIL][1.1]][1]
 [![LinkedIn][2.2]][2]
