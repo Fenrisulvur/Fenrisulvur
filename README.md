@@ -58,7 +58,7 @@ You can contact me at . <br />
 [2.2]: https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png
 
 <!-- Links to your social media accounts -->
-[1]: coreyfults@gmail.com
+[1]: https://mail.google.com/mail/?view=cm&fs=1&to=coreyfults@gmail.com 
 [2]: https://www.linkedin.com/in/corey-fults/
 <!---
 Fenrisulvur/Fenrisulvur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
