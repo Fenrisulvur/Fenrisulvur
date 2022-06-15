@@ -3,7 +3,6 @@
 ![Top Langs](https://github-readme-stats-1-ckdb8rxjr-fenrisulvur.vercel.app/api/top-langs/?username=Fenrisulvur&layout=compact&theme=dracula)
 <br />
 # About Me 
-Hi! I'm Corey. <br />
 I'm a programmer, gamer, and dabbler of 3D modeling. <br />
 Graduated from South Hills School of Business & Technology as a Software Developer. <br />
 I'm interested in game development and making cool things. <br />
