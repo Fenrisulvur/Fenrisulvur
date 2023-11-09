@@ -6,7 +6,6 @@
 I'm a programmer, gamer, and dabbler of 3D modeling. <br />
 Graduated from South Hills School of Business & Technology as a Software Developer. <br />
 I'm interested in game development and making cool things. <br />
-Currently working for Voldex as a Roblox Game Developer. <br />
 
 # Languages 
 ![](https://img.shields.io/badge/CODE-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
